@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+     _____ __                 ______           __  
+    / ___// /_  ____ _      _/_  __/________ _/ /__
+    \__ \/ __ \/ __ \ | /| / // / / ___/ __ `/ //_/
+     ___/ / / / / /_/ / |/ |/ // / / /  / /_/ / ,<   
+    /____/_/ /_/\____/|__/|__//_/ /_/   \__,_/_/|_|  
+                                                  
+                                                  
+#
 
-You can use the [editor on GitHub](https://github.com/LRShowTek/LRShowTek.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# ShowTrak
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A bespoke project for tracking, managing and upgrading how you run your immersive production.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Documentation
 
-```markdown
-Syntax highlighted code block
+[Documentation](https://linktodocumentation)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Features
 
-1. Numbered
-2. List
+- Track groups of customers through your show
+- Calculate timing delays
+- Communicate with cast via tablets
+- Integrate commands to your show PCs
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## License
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[NO CURRENT LICENSE](https://choosealicense.com/)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LRShowTek/LRShowTek.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Used By
 
-### Support or Contact
+This project is used by the following companies:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Layered Reality's War of the Worlds: Immersive
+
+
+
+## Badges
+
+
+
+![with-love](https://img.shields.io/badge/made%20with-%F0%9F%92%8C-red.svg)
+![with-coffee](https://img.shields.io/badge/made%20with-%E2%98%95%EF%B8%8F%20coffee-yellow.svg)
+
+
